@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" alt="Coding Animation" />
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--programmer-coding-software-development-web-pack-people-illustrations-4315053.png" width="600" alt="Developer with JS, Dart, and Python stickers on laptop" />
 </div>
 
 ---
