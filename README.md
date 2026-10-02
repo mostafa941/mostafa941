@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://assets.breatheco.de/apis/img/images/coding.gif" width="500" alt="Developer Coding" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-developer.svg" width="250" alt="Developer Illustration" />
 </div>
 
 ---
