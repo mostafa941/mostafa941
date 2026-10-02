@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Welcome+here!+%F0%9F%90%8B;Hi%2C+I'm+Mostafa+Gamal+%F0%9F%91%8B;Software+Engineer;Build.+Learn.+Teach.+Repeat." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" alt="Coding Animation" />
+</div>
+
+---
+
 # 💫 About Me:
 # Hi, I'm Mostafa Gamal 👋<br><br>I'm a **Software Engineer** with **3 years of experience in Software Development**, working across both professional environments, including companies such as **RMZ Tech**, and freelance projects.<br><br>Throughout my career, I've worked on a wide range of software projects, with a strong focus on building practical, scalable, and user-focused applications. You can explore some of my highlighted projects and work here on my **GitHub**.<br><br>### 💻 Areas of Expertise<br><br>* **Web Development** — Frontend & Backend<br>* **Mobile Development** — Flutter & React Native<br>* **JavaScript / React / Node.js**<br>* **APIs & Database Development**<br>* **Software Architecture & Application Development**<br><br>Alongside software development, I'm also passionate about **teaching and mentoring**. I work as a **Software Development Instructor**, where I've taught and supported many students across different areas of software development through my **YouTube channel, CodeTech platform, and online learning sessions**.<br><br>I believe that learning never stops. I'm always exploring new technologies, improving my skills, building new projects, and sharing what I learn with others.<br><br>**Build. Learn. Teach. Repeat.**<br>
 
@@ -23,5 +33,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=mostafa941&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
